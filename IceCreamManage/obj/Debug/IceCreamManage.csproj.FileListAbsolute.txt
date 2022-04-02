@@ -1,0 +1,273 @@
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\tuan phong\Downloads\Source\Source\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\bin\Debug\IceCreamManage.exe.config
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\bin\Debug\IceCreamManage.exe
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\bin\Debug\IceCreamManage.pdb
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.exe
+C:\Users\joeng\Downloads\Compressed\Source (1)\Source\Source\QuanLyNhaHang\obj\Debug\IceCreamManage.pdb
+D:\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+D:\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe
+D:\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.pdb
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.exe
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.pdb
+D:\IceCreamManage\IceCreamManage\bin\Debug\DevComponents.DotNetBar2.dll
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+D:\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Downloads\test_lamlai\IceCreamManage\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\joeng\Downloads\Compressed\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Downloads\test 27\IceCreamManage_p\IceCreamManage_p\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\bin\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\IceCreamManage\IceCreamManage\obj\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop(p1)\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+D:\Lap trinh\C#\Bai de nop\Cuoi ky\Baidenop(p2)\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAdmin.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix\New folder\IceCreamManage\obj\Debug\IceCreamManage.Facebook.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe.config
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\bin\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\bin\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fAccountProfile.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.Facebook.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fFacebook.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fForgotPassword.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fLogin.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fApp.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fPassword2.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fSignUp.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.fTableManager.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.exe
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.pdb
+C:\Users\ASUS\Desktop\IceCreamManager(English) -Fix_xong\New folder\IceCreamManage\obj\Debug\IceCreamManage.HideUnhide.resources
